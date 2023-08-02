@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# About Me
+I graduated from the University of California Berkeley with a Bachelor's degree in Computer Science. There, I had my first experience with programming and built up my knowledge and skills related to computer science such as algorithms, data structures, theory, and coding in general. Since graduating I have attended coding bootcamp App Academy to further gain knowledge in various technologies involved in full stack development. That is where I developed three full stack projects (2 solo, 1 team) and really experienced what being a software engineer entails. The knowledge and experience I have gained has made me a skillful software engineer.
 <!--
 **kwoncalvin/kwoncalvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
